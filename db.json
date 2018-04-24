@@ -1,0 +1,18 @@
+{
+  "periods": [
+    {
+      "text": "Period 1",
+      "start_date": "2018-10-13",
+      "end_date": "2019-02-08",
+      "houres": "400"
+    },
+    {
+      "text": "Period 2",
+      "start_date": "2019-02-08",
+      "end_date": "2019-06-10",
+      "houres": "360"
+    }
+  ]
+}
+
+
