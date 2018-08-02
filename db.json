@@ -1,33 +1,31 @@
 {
-    "data": [{
-            "trend": [
-            {
-                "year": 2013,
-                "salary": 23400,
-                "salary_trend": 2.7,
-                "salary_trend_this_field": 3.9
-            }, {
-                "year": 2014,
-                "salary": 24400,
-                "salary_trend": 4.2,
-                "salary_trend_this_field": 4.5
-            }, {
-                "year": 2015,
-                "salary": 26700,
-                "salary_trend": 2.2,
-                "salary_trend_this_field": 3.9
-            }, {
-                "year": 2016,
-                "salary": 29400,
-                "salary_trend": 3.7,
-                "salary_trend_this_field": 5.0
-            }, {
-                "year": 2017,
-                "salary": 34400,
-                "salary_trend": 2.9,
-                "salary_trend_this_field": 4.1
-            }
-        ],
+    "data": {
+        "trend": [{
+            "year": 2013,
+            "salary": 23400,
+            "salary_trend": 2.7,
+            "salary_trend_this_field": 3.9
+        }, {
+            "year": 2014,
+            "salary": 24400,
+            "salary_trend": 4.2,
+            "salary_trend_this_field": 4.5
+        }, {
+            "year": 2015,
+            "salary": 26700,
+            "salary_trend": 2.2,
+            "salary_trend_this_field": 3.9
+        }, {
+            "year": 2016,
+            "salary": 29400,
+            "salary_trend": 3.7,
+            "salary_trend_this_field": 5.0
+        }, {
+            "year": 2017,
+            "salary": 34400,
+            "salary_trend": 2.9,
+            "salary_trend_this_field": 4.1
+        }],
         "level": [
             [45, 30000],
             [25, 27500],
@@ -53,6 +51,6 @@
             [60, 42000],
             [64, 22000]
         ]
-        }
-    ]
+    }
+
 }
