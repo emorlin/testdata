@@ -50,7 +50,23 @@
             [24, 32000],
             [60, 42000],
             [64, 22000]
-        ]
+        ],
+        "statisticsGroups": {
+            "avarage": "Medellön",
+            "p90": "90:e percentil",
+            "p75": "Övre kvartil",
+            "p50": "Median (P50)",
+            "p25": "Undre kvartil",
+            "p10": "10:e percetil"
+        },
+        "ageGroups": {
+            "age_all": "Samtliga",
+            "age_upto29": "-29 år",
+            "age_40to49": "40-49 år",
+            "age_30to39": "30 - 39 år",
+            "age_50to59": "50 - 59 år",
+            "age_60above": "60 - år"
+        }
     }
 
 }
