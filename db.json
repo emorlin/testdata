@@ -26,7 +26,7 @@
             "salary_trend": 2.9,
             "salary_trend_this_field": 4.1
         }],
-        "level": [{
+        "level": {
             "my": [33, 31200],
             "others": [
                 [45, 30000],
@@ -53,7 +53,7 @@
                 [60, 42000],
                 [64, 22000]
             ]
-        }],
+        },
         "statisticsGroups": {
             "avarage": "Medellön",
             "p90": "90:e percentil",
