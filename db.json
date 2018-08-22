@@ -343,21 +343,5 @@
         ],
         "employments": {},
         "location": {}
-    },
-    "filtergroup_empl": {
-        "contracts": {
-            "ID001": "Almega"
-        },
-        "years": {
-            "0": "2018",
-            "1": "2017",
-            "2": "2016"
-        },
-        "employments": {
-            "ID001": "Dagis",
-            "ID002": "Rektor"
-        },
-        "location": {}
     }
-
 }
