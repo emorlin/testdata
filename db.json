@@ -287,15 +287,28 @@
 			"age_60above": "60 - år"
 		},
 		"filtergroup_contract": {
-			"contracts": {
-				"ID001": "Almega",
-				"ID002": "Omega",
-				"ID003": "Avtal 3",
-				"ID004": "Avtal 4"
-			},
+			"contracts": [
+				{
+					"id":"ID001", 
+					"name":"Almega"
+				},
+				{
+					"id":"ID002", 
+					"name":"Omega"
+				},
+				{
+					"id":"ID003", 
+					"name":"Avtal 3"
+				},
+				{
+					"id":"ID004", 
+					"name":"Avtal 4"
+				}
+			],
 			"years": {},
 			"employments": {},
 			"location": {}
+			
 		}
 	},
 	"filtergroup_years": {
