@@ -312,17 +312,27 @@
 		}
 	},
 	"filtergroup_years": {
-		"contracts": {
-			"ID001": "Almega",
-			"ID002": "Omega"
-		},
-		"years": {
-			"0": "2018",
-			"1": "2017",
-			"2": "2016"
-		},
-		"employments": {},
-		"location": {}
+			"contracts": [
+				{
+					"id":"ID001", 
+					"name":"Almega"
+				},
+				{
+					"id":"ID002", 
+					"name":"Omega"
+				},
+				{
+					"id":"ID003", 
+					"name":"Avtal 3"
+				},
+				{
+					"id":"ID004", 
+					"name":"Avtal 4"
+				}
+			],
+			"years": {},
+			"employments": {},
+			"location": {}
 	},
 	"filtergroup_empl": {
 		"contracts": {
