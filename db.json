@@ -285,29 +285,6 @@
             "age_30to39": "30 - 39 år",
             "age_50to59": "50 - 59 år",
             "age_60above": "60 - år"
-        },
-        "filtergroup_contract": {
-            "contracts": [{
-                    "id": "ID001",
-                    "name": "Almega"
-                },
-                {
-                    "id": "ID002",
-                    "name": "Omega"
-                },
-                {
-                    "id": "ID003",
-                    "name": "Avtal 3"
-                },
-                {
-                    "id": "ID004",
-                    "name": "Avtal 4"
-                }
-            ],
-            "years": {},
-            "employments": {},
-            "location": {}
-
         }
     },
     "filtergroup_years": {
@@ -343,5 +320,28 @@
         ],
         "employments": {},
         "location": {}
-    }
+    },
+            "filtergroup_contract": {
+            "contracts": [{
+                    "id": "ID001",
+                    "name": "Almega"
+                },
+                {
+                    "id": "ID002",
+                    "name": "Omega"
+                },
+                {
+                    "id": "ID003",
+                    "name": "Avtal 3"
+                },
+                {
+                    "id": "ID004",
+                    "name": "Avtal 4"
+                }
+            ],
+            "years": {},
+            "employments": {},
+            "location": {}
+
+        }
 }
