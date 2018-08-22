@@ -285,16 +285,18 @@
 			"age_30to39": "30 - 39 år",
 			"age_50to59": "50 - 59 år",
 			"age_60above": "60 - år"
-		}
-	},
-	"filtergroup_contract": {
-		"contracts": {
-			"ID001": "Almega",
-			"ID002": "Omega"
 		},
-		"years": {},
-		"employments": {},
-		"location": {}
+		"filtergroup_contract": {
+			"contracts": {
+				"ID001": "Almega",
+				"ID002": "Omega",
+				"ID003": "Avtal 3",
+				"ID004": "Avtal 4"
+			},
+			"years": {},
+			"employments": {},
+			"location": {}
+		}
 	},
 	"filtergroup_years": {
 		"contracts": {
