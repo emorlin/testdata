@@ -1,152 +1,154 @@
-[{
-    "estate": "Luleå Centralstation - Luleå Personalhus - Malmhamnsvägen 10",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Förråd - Carlsgatan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Förråd - Jörgen Kocksgatan 77",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Godsvagnsverkstad - Jörgen Kocksgatan 77",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Lokverkstad - Carlsgatan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Mark - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Mark - Jörgen Kocksgatan 77",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Mark - Malmö",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Thorshall - Carlsgatan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö C Tvätthall - Carlsgatan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö Spår Godsvagnsverkstad - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö Spår Lokverkstad - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö C - Malmö Spår Thorshall & Tvätthall - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Centralstation - Malmö nya P-Hus - Lokgatan 9 A",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Centralstation - Malmö Parkeringsplats - Stormgatan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Centralstation - Malmö Stationshus - Centralplan",
-    "id": "1234"
-},
-{
-    "estate": "Malmö crossdock - Malmö Crossdock - Containergatan 2",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Glasvasen - Glasvasen - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Asbesthall - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Hjulverkstad - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Kirseberg Spår Underhållsvst - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Malteshus - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Panncentral - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Plåtförråd - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Underhållsverkstad - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Verkstadsområde - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - Malmö Virkesförråd - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Fackexpedition - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Järnförråd - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Kallförråd - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Kontor - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Markan - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Truckgarage - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Verkstadskontor - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Kirseberg - x Malmö Verkstadsområde - Södra Bulltoftavägen 51",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Södra Nyhamnen - Malmö Spår Godsterminal - [Adress saknas]",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Terminal - Malmö Terminal Kontor - Godsterminalområdet",
-    "id": "1234"
-},
-{
-    "estate": "Malmö Terminal - Malmö Terminal Mark - Godsterminalområdet",
-    "id": "1234"
-}]
+{"data":[
+    {
+        "estate": "Luleå Centralstation - Luleå Personalhus - Malmhamnsvägen 10",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Förråd - Carlsgatan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Förråd - Jörgen Kocksgatan 77",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Godsvagnsverkstad - Jörgen Kocksgatan 77",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Lokverkstad - Carlsgatan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Mark - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Mark - Jörgen Kocksgatan 77",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Mark - Malmö",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Thorshall - Carlsgatan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö C Tvätthall - Carlsgatan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö Spår Godsvagnsverkstad - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö Spår Lokverkstad - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö C - Malmö Spår Thorshall & Tvätthall - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Centralstation - Malmö nya P-Hus - Lokgatan 9 A",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Centralstation - Malmö Parkeringsplats - Stormgatan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Centralstation - Malmö Stationshus - Centralplan",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö crossdock - Malmö Crossdock - Containergatan 2",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Glasvasen - Glasvasen - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Asbesthall - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Hjulverkstad - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Kirseberg Spår Underhållsvst - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Malteshus - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Panncentral - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Plåtförråd - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Underhållsverkstad - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Verkstadsområde - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - Malmö Virkesförråd - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Fackexpedition - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Järnförråd - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Kallförråd - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Kontor - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Markan - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Truckgarage - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Verkstadskontor - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Kirseberg - x Malmö Verkstadsområde - Södra Bulltoftavägen 51",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Södra Nyhamnen - Malmö Spår Godsterminal - [Adress saknas]",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Terminal - Malmö Terminal Kontor - Godsterminalområdet",
+        "id": "1234"
+    },
+    {
+        "estate": "Malmö Terminal - Malmö Terminal Mark - Godsterminalområdet",
+        "id": "1234"
+    }
+]}
